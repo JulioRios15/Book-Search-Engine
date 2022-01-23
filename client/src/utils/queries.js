@@ -14,6 +14,8 @@ export const QUERY_ME = gql`
         link
         title
         authors
+      }
     }
   }
+
 `;
